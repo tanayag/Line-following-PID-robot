@@ -1,4 +1,4 @@
-Line following robot
+Line following robo
 ========================
 
 This robot was developed for the [OSHWDem 2014](http://oshwdem.org/ "OSHWDem A Coruña") by Mateo Ramos and Xabi Crespo. It has two functionalities:
